@@ -1,4 +1,9 @@
 """
+MIT License
+Copyright (c) 2021 HP-SCDS / Observatorio / Máster Data-Science UC /
+Diego García Saiz / Jesús González Álvarez / Javier Alejandro Cuartas 
+Micieces / 2021-2022 / DeepScan4Failure
+
 This module provides the tool main class (DeepScanner), with the common machine learning tool methods for training, performing inference on new data and loading models which were trained before. It is meant for semi-supervised learning in heavily imbalanced datasets, as it is based on Variational Autoencoders.
 
 Functions:
