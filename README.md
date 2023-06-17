@@ -12,6 +12,7 @@ Code is structured according to the following tree:
 * **logs** : directory where all training logs will be stored. 
 * **data** : directory where all input data will be stored.
 * **runs** : directory where all tensorboard ouputs will be stored.
+* **docs** : directory where the written part of this work is stored.
 * **notebooks** : directory where validation jupyter notebooks will be stored.
     * **DS4F-Hyperparameter_tunning_example.ipynb**
     * **DS4F-Pretreatment-VSB-PowerLineFaultDetection.ipynb**
