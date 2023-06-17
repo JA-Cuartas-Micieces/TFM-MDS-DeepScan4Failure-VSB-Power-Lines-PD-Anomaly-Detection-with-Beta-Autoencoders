@@ -1,6 +1,6 @@
 # DeepScan4Failure
 
-This is the implementation of an anomaly detection algorithm for big datasets, using Pytorch and Pyspark. It is part of the Data Science Master Thesis of Javier Cuartas, and It was guided by Walter Vinci, Ricardo Robles and Jesús González from HP-SCDS León 2021-2022, and by Diego García from the University of Cantabria.
+This is the implementation of an anomaly detection algorithm for big datasets, using Pytorch and Pyspark. It is part of the Data Science Master Thesis of Javier Cuartas, and It was guided by HP-SCDS León 2021-2022, and by Diego García from the University of Cantabria.
 
 Code is structured according to the following tree:
     
