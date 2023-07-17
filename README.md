@@ -1,4 +1,4 @@
-# DeepScan4Failure
+### PROJECT
 
 This is the implementation of an anomaly detection algorithm, using Pytorch. It is part of the Data Science Master Thesis of Javier Cuartas, and It was guided by HP-SCDS León 2021-2022, and by Diego García from the University of Cantabria.
 
@@ -39,3 +39,25 @@ This line takes data from **--data-file** (.h5), splits it into training and val
 
 >!python predict.py --help
 >!python predict.py --path "/home/ubuntu1/cdir/proj/" --data_file "scaled_3.h5" --pr_loss True --ths 0.31 --load "model_intento1_20230521_165922.pt" --output_file "results_predict.csv" 
+
+### CONTACT AND CONTRIBUTION
+
+It is a personal project which is not open for contributions at the moment but please, feel free to share any comments, questions or suggestions through javiercuartasmicieces@hotmail.com.
+
+### ACKNOWLEDGEMENTS
+
+* Addison H, Dane S, Vantuch T. Power Line Fault Detection (2018). Kaggle [Online]. [Available](https://www.kaggle.com/competitions/vsb-power-line-fault-detection/data.)
+
+* An J, Cho S. “Variational Autoencoder based Anomaly Detection using Reconstruction Probability”. Special Lecture on IE. 2015. Vol. 2. No. 1. pp. 1–18. [Available](https://www.semanticscholar.org/paper/Variational-Autoencoder-based-Anomaly-Detection-An-Cho/061146b1d7938d7a8dae70e3531a00fceb3c78e8?p2df) [Accesed: Apr. 2023].
+
+* Egan J. VSB Power Line Fault Detection Approach. [Competition Notebook]. Kaggle: Power Line Fault Detection Competition of Enet Centre, VSB – TU of Ostrava. Egan J. 2019. [Available](https://www.kaggle.com/code/jeffreyegan/vsb-power-line-fault-detection-approach) [Accessed Sep. 2022].
+
+* Higgins I, Matthey L, Pal A, Burgess C, Glorot X, Botvinick M, Mohamed S, Lerchner A. “beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework”. International Conference on Learning Representations (ICLR). 2017. [Online]. [Available](https://openreview.net/forum?id=Sy2fzU9gl) [Accessed: Dec. 2021].
+
+* Kingma DP, Welling M. “Auto-Encoding Variational Bayes”. arXiv:1312.6114v11 [stat.ML]. Dec 2013. [Online]. [Available](https://arxiv.org/abs/1312.6114) [Accessed: Dec. 2022].
+
+* Mark4h. VSB_1st_place_solution. [Competition Notebook]. Kaggle: Power Line Fault Detection Competition of Enet Centre, VSB – TU of Ostrava. Mark4h. 2019. [Available](https://www.kaggle.com/code/mark4h/vsb-1st-place-solution) [Accessed Sep. 2022].
+  
+* Pytorch, Pytorch Tutorials (2022). Pytorch. Accessed: 2021 Dec 28 [Online]. [Available](https://pytorch.org/tutorials/) [Accessed: Apr. 2022].
+
+* Pytorch, Pytorch Documentation (2022). Pytorch. Accessed: 2021 Dec 28 [Online]. [Available](https://pytorch.org/docs/stable/index.html) [Accessed: Apr. 2022].
